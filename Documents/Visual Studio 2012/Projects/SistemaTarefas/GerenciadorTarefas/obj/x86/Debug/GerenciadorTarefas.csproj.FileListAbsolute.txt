@@ -1,0 +1,14 @@
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\GerenciadorTarefas.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\GerenciadorTarefas.pdb
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\EntityFramework.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\EntityFramework.SqlServer.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\MySql.Data.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\EntityFramework.xml
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\EntityFramework.SqlServer.xml
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\obj\x86\Debug\GerenciadorTarefas.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\obj\x86\Debug\GerenciadorTarefas.pdb
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\CamadaControle.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\CamadaModelo.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\CamadaControle.pdb
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\CamadaModelo.pdb
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\obj\x86\Debug\GerenciadorTarefas.csprojResolveAssemblyReference.cache

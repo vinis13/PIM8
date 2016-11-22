@@ -1,0 +1,10 @@
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\GerenciadorTarefas.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\GerenciadorTarefas.pdb
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\EntityFramework.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\EntityFramework.SqlServer.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\EntityFramework.xml
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\EntityFramework.SqlServer.xml
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\obj\Debug\GerenciadorTarefas.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\obj\Debug\GerenciadorTarefas.dll
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\obj\Debug\GerenciadorTarefas.pdb
+\\mac\home\documents\visual studio 2012\Projects\SistemaTarefas\GerenciadorTarefas\bin\MySql.Data.dll
