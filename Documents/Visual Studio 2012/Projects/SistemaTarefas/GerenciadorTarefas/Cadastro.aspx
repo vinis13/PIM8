@@ -6,12 +6,12 @@
 
 <div class="well" id="cadastro">
     <asp:Label ID="lblNome" runat="server" Text="Nome:" Width="80px"></asp:Label>
-    <asp:TextBox ID="txtNome" runat="server" Width="200px"></asp:TextBox>
+    <asp:TextBox ID="txtNome" runat="server" Width="200px" OnTextChanged="txtNome_TextChanged"></asp:TextBox>
     <asp:RequiredFieldValidator ID="RequiredFieldValidator1" Display="Dynamic" runat="server" ErrorMessage="Campo Obrigatório" 
         ControlToValidate="txtNome"></asp:RequiredFieldValidator><br />
 
     <asp:Label ID="lblCpf" runat="server" Text="CPF:" Width="80px"></asp:Label>
-    <asp:TextBox ID="txtCpf" runat="server" Width="200px"></asp:TextBox>
+    <asp:TextBox ID="txtCpf" runat="server" Width="200px" OnTextChanged="txtCpf_TextChanged"></asp:TextBox>
         <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="Campo Obrigatório" 
         ControlToValidate="txtCpf"></asp:RequiredFieldValidator><br />
 

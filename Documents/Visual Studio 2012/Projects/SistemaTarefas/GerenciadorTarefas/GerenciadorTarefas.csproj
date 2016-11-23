@@ -19,6 +19,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -72,6 +73,7 @@
     <Content Include="Login.aspx" />
     <Content Include="Cadastro.aspx" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="NovaTarefa.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.1.1.js" />
@@ -79,12 +81,22 @@
     <Content Include="Scripts\jquery-3.1.1.slim.js" />
     <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
     <Content Include="style.css" />
-    <Content Include="Web.config" />
+    <Content Include="Tarefas.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Scripts\jquery-3.1.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.1.1.min.map" />
     <Content Include="Site1.Master" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NovaTarefa.aspx.cs">
+      <DependentUpon>NovaTarefa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NovaTarefa.aspx.designer.cs">
+      <DependentUpon>NovaTarefa.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site1.Master.cs">
       <DependentUpon>Site1.Master</DependentUpon>
@@ -106,6 +118,13 @@
     </Compile>
     <Compile Include="Cadastro.aspx.designer.cs">
       <DependentUpon>Cadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Tarefas.aspx.cs">
+      <DependentUpon>Tarefas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Tarefas.aspx.designer.cs">
+      <DependentUpon>Tarefas.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
