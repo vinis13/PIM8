@@ -18,7 +18,7 @@ namespace GerenciadorTarefas
 
         protected void btnCadastrar_Click(object sender, EventArgs e)
         {
-            string database = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\cruzm\Documents\dbSistema.mdb";
+            string database = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source= ~\SistemaTarefas\db\dbSistema.mdb";
             OleDbConnection myConn = new OleDbConnection(database);
             myConn.Open();
             var dbCMD = new OleDbCommand("select * from Login where AlunoCPF = " + txtCpf.Text + " ", myConn);
@@ -34,7 +34,7 @@ namespace GerenciadorTarefas
             if (lach)
             {
                 
-                string queryStr = "Insert into Login(Nome,CPF,Email,Senha,Faculdade,Curso) values ('" + txtFaculdade.Text + "','" + txtCurso.Text + "','" + txtAluno.Text + "','" + txtEmail.Text + "','" + txtCPF.Text + "','" + txtSenha.Text + "')";
+                string queryStr = "Insert into Login(Nome,CPF,Email,Senha,Faculdade,Curso) values ('" + txtNome.Text + "','" + txtCurso.Text + "','" + txtCpf.Text + "','" + txtSenha.Text + "','" + txtEmail.Text + "','" + txtFaculd.Text + "','" + txtCurso.Text );
 
                 
                 OleDbCommand myCommand = new OleDbCommand(queryStr, myConn);
@@ -43,7 +43,7 @@ namespace GerenciadorTarefas
                 myCommand.ExecuteNonQuery();
                 myCommand.Connection.Close();
 
-                Response.Redirect("frmLogin.aspx");
+                Response.Redirect("Login.aspx");
             }
             else
             {
