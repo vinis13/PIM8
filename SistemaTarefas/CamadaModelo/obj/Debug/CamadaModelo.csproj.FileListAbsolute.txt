@@ -1,0 +1,4 @@
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\CamadaModelo\bin\Debug\CamadaModelo.dll
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\CamadaModelo\bin\Debug\CamadaModelo.pdb
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\CamadaModelo\obj\Debug\CamadaModelo.dll
+C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\CamadaModelo\obj\Debug\CamadaModelo.pdb

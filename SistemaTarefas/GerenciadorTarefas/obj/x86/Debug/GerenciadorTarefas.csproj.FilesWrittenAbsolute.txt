@@ -1,0 +1,15 @@
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/GerenciadorTarefas.dll.mdb
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/GerenciadorTarefas.dll
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/obj/x86/Debug/GerenciadorTarefas.dll
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/obj/x86/Debug/GerenciadorTarefas.dll.mdb
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/EntityFramework.dll
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/EntityFramework.SqlServer.dll
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/MySql.Data.dll
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/System.Web.dll
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/CamadaControle.dll
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/CamadaControle.dll.mdb
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/CamadaControle.pdb
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/CamadaModelo.dll
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/CamadaModelo.dll.mdb
+/Users/Fabio/Documents/Visual Studio 2012/Projects/SistemaTarefas/GerenciadorTarefas/bin/CamadaModelo.pdb

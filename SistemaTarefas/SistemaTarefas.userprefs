@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{68FE7D42-270D-4C40-A6CC-763E56E8D02A}|" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GerenciadorTarefas/Login.aspx">
+    <Files>
+      <File FileName="GerenciadorTarefas/Login.aspx" Line="10" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SistemaTarefas" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="GerenciadorTarefas" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Cadastro.aspx" expanded="True" />
+              <Node name="Login.aspx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GerenciadorTarefas PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
