@@ -5,7 +5,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br">
 <head runat="server">
-    <title>Gerenciaddor de Tarefas</title>
+    <title>Gerenciador de Tarefas</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="Content/bootstrap.css" rel="stylesheet" type="text/css" />

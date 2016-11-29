@@ -5,3 +5,10 @@ C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\CamadaContro
 C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\CamadaControle\bin\Debug\CamadaModelo.dll
 C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\CamadaControle\bin\Debug\CamadaModelo.pdb
 C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\CamadaControle\obj\Debug\CamadaControle.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\CamadaControle\bin\Debug\CamadaControle.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\CamadaControle\bin\Debug\CamadaControle.pdb
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\CamadaControle\bin\Debug\CamadaModelo.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\CamadaControle\bin\Debug\CamadaModelo.pdb
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\CamadaControle\obj\Debug\CamadaControle.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\CamadaControle\obj\Debug\CamadaControle.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\CamadaControle\obj\Debug\CamadaControle.pdb

@@ -7,7 +7,7 @@ using System.Text;
 
 namespace CamadaModelo
 {
-    public class TarefaModel
+    public class tarefaModel
     {
         public int Codigo { get; set; }
         public string NomeTarefa {get; set;}

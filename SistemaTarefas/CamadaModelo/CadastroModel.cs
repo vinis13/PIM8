@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CamadaModelo
 {
-    public class CadastroModel
+    public class cadastroModel
     {
 
     public int Codigo { get; set;}

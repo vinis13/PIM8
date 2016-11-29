@@ -18,8 +18,6 @@ namespace GerenciadorTarefas
 
         protected void btnCadastrar_Click(object sender, EventArgs e)
         {
-            
-
             string database = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=~/dbSistema.accdb";
             
             OleDbConnection myConn = new OleDbConnection(database);

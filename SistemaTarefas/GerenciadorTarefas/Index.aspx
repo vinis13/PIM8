@@ -16,7 +16,7 @@
               </tr>
               <tr>
                 <td><asp:label ID="lblSenha" runat="server" Text="Senha"></asp:label></td>
-                <td class="auto-style6"><asp:TextBox ID="UserPass" runat="server" cssClass="form-control" Width="300px" Text="Senha" TextMode="Password" placeholder="Senha"/></td>
+                <td class="auto-style6"><asp:TextBox ID="UserPass" runat="server" cssClass="form-control" Width="300px" Text="Senha" TextMode="Password"/></td>
                 <td class="auto-style4">
                     </td>
               </tr>
@@ -27,17 +27,12 @@
                 <tr>
                     <td colspan="2" rowspan="1"></td>
                 </tr>
-                </table>           
-        
+                </table>                 
     </div>
-        
-   
- 
-  
-      
+          
     <p>
-        <asp:Button ID="btnLogin" OnClick="btnLogin_Click" Text="Login" runat="server" CssClass="btn btn-primary btn-lg btn-block" Width="120px" Height="40px"/>
-        <asp:Button ID="btnAddAluno" runat="server" Text="Cadastrar" CssClass="btn btn btn-success btn-lg btn-block" Width="120px" Height="40px" OnClick="btnAddAluno_Click"/>
+        <asp:Button ID="btnLogin" OnClick="btnLogin_Click" Text="Login" runat="server" CssClass="btn btn-primary btn-lg" Width="120px" Height="40px"/>
+        <asp:Button ID="btnAddAluno" runat="server" Text="Cadastrar" CssClass="btn btn btn-success btn-lg" Width="120px" Height="40px" OnClick="btnAddAluno_Click"/>
     </p>
 
     <div id="msgError">

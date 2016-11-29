@@ -13,20 +13,9 @@ namespace GerenciadorTarefas
         {
 
         }
-
-        protected void Button1_Click(object sender, EventArgs e)
+        protected void btnTarefasMenu_Click(object sender, EventArgs e)
         {
-
-        }
-
-        protected void btnTarefas_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void btnTarefas_Click1(object sender, EventArgs e)
-        {
-
+            Response.Redirect("~/Tarefas.aspx");
         }
     }
 }

@@ -64,3 +64,33 @@ C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\GerenciadorT
 C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\GerenciadorTarefas\bin\CamadaControle.pdb
 C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\GerenciadorTarefas\bin\CamadaModelo.pdb
 C:\Users\Fabio\Documents\Visual Studio 2013\Projects\SistemaTarefas\GerenciadorTarefas\obj\x86\Debug\GerenciadorTarefas.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\GerenciadorTarefas.dll.config
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\GerenciadorTarefas.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\GerenciadorTarefas.pdb
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\Antlr3.Runtime.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\CamadaControle.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\CamadaModelo.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\Newtonsoft.Json.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.Helpers.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.Mvc.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.Optimization.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.Razor.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.WebPages.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\WebGrease.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\CamadaControle.pdb
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\CamadaModelo.pdb
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\Antlr3.Runtime.pdb
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\Newtonsoft.Json.xml
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.Helpers.xml
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.Mvc.xml
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.Optimization.xml
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.Razor.xml
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.WebPages.xml
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\obj\x86\Debug\GerenciadorTarefas.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\obj\x86\Debug\GerenciadorTarefas.dll
+C:\Users\Fabio\Desktop\PIM8\SistemaTarefas\GerenciadorTarefas\obj\x86\Debug\GerenciadorTarefas.pdb

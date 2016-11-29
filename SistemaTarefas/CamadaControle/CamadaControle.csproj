@@ -39,7 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="cadastroModel.cs" />
+    <Compile Include="ctlCadastro.cs" />
+    <Compile Include="ctlLogin.cs" />
+    <Compile Include="ctlTarefa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -7,7 +7,7 @@ using System.Text;
 
 namespace CamadaModelo
 {
-    public class LoginModel
+    public class loginModel
     {
         public int Codigo { get; set; }
         public string CPF { get; set; }
